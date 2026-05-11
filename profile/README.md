@@ -4,11 +4,13 @@ These organizations are primarily used to structure projects by domain and respo
 
 I prefer treating each system as an independent project rather than combining unrelated concerns into a single repository or profile structure. Over time, this organization model also created space for conversations with developers, recruiters, founders, and people exploring specific domains, early ideas who may be interested in discussing, building, or collaborating.
 
-## What
+## Purpose
 
 *Web256Portal* hosts frontend applications built primarily with JavaScript and the React ecosystem. The organization focuses on building interfaces for existing APIs, operational dashboards, client-facing systems, and standalone frontend applications using shared utilities and reusable UI structures.
 
 > Projects within *Web256Portal* are primarily designed to integrate with systems developed inside [Web256Bridge](https://github.com/Web256Bridge) and reusable utilities from [Web256Utilities](https://github.com/Web256Utilities), while still remaining flexible enough to support standalone solutions when needed.
+
+[![Tools](https://skillicons.dev/icons?i=js,react,redux,aws)](https://skillicons.dev)
 
 ## Main Focus
 
